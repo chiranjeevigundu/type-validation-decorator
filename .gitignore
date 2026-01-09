@@ -1,0 +1,6 @@
+
+__pycache__/
+*$py.class
+__pypackages__/
+.venv
+.vscode/
